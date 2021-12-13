@@ -1,6 +1,31 @@
 # charttikoodi
 mun ja daniellan tekemä koodi
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <?php 
        // header("refresh: 3;");
         $hostname = "localhost";
